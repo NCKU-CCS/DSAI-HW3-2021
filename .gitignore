@@ -1,0 +1,10 @@
+__pycache__/
+log/
+data/
+private/
+
+match.py
+develop_match.py
+dsai-autobot.sh
+
+test.py

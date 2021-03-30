@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pygsheets = "==2.0.5"
+pandas = "==1.2.3"
+python-dotenv = "==0.16.0"
+
+[dev-packages]
+loguru = "==0.5.3"
+
+[requires]
+python_version = "3.8"
