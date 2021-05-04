@@ -20,12 +20,12 @@
    ┃     ┣━ bill-{mid}.csv
    ┃     ┗━ bidresult-{mid}.csv
    ┗━ training_data/
-      ┗━ target{agent}.csv  
+      ┗━ target{household}.csv  
       
 ```
 
 1. `mid` 為每次媒合編號
-2. `agent` 為角色編號，共 50 組
+2. `household` 為住戶編號，共 50 組
 3. 請使用發給組長的帳號密碼，將檔案上傳至 `upload/`
 4. 相關媒合及投標資訊皆在 `download/` 下可以找到，可自行下載使用
 
